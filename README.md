@@ -1,6 +1,6 @@
 # Purpose
 
-This is a forked repo CS50's library for C created for the _CS50x_ course on edX.
+This is a forked repo of CS50's library for C created for the _CS50x_ course on edX.
 
 # CS50 Library for C
 
